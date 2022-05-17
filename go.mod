@@ -1,4 +1,4 @@
-module github.com/jchv/go-webview2
+module github.com/xiao9878/go-webview2
 
 go 1.16
 
